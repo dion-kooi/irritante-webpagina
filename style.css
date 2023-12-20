@@ -5,7 +5,6 @@ body {
     margin: 0%;
 }
 
-
 .grid-container {
     display: grid;
 
@@ -69,12 +68,10 @@ body {
     letter-spacing: 30px;
 }
 
-
 .item3 p {
     font-family: sans-serif;
     font-size: 24px;
 }
-
 
 .item3 p:hover {
     letter-spacing: 30px;
@@ -89,17 +86,6 @@ body {
 .content {
     margin-left: 70px;
 }
-
-.download-btn{
-
-}
-
-.download-btn:hover{
-
-}
-
-
-
 
 .item2 .knoppen {
     margin-right: 75%;
@@ -130,13 +116,9 @@ body {
     transition: transform 60s ease-in-out;
 }
 
-
-
 .knop2:hover {
     transform: rotate(3600000deg);
 }
-
-
 
 #video1 {
     position: fixed;
@@ -150,11 +132,6 @@ body {
 
 }
 
-
-
-
-
-
-
-
-
+#pop-up {
+    display: none;
+}
